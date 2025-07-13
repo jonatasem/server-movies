@@ -64,15 +64,6 @@ const movies = [
     },
     {
         id: 8,
-        title: 'O Bom, o Mau e o Feio', 
-        year: 1966, 
-        img: 'o-bom-o-mau-e-o-feio.jpg',
-        rating: 8.8, 
-        description: 'Um clássico faroeste que segue três homens em busca de um tesouro escondido durante a Guerra Civil Americana. Cada um tem suas próprias motivações, e alianças e traições se formam ao longo do caminho, culminando em um confronto final.',
-        src: 'https://raw.githubusercontent.com/jonatasem/movies-api/main/o-bom-o-mau-e-o-feio.mp4'
-    },
-    {
-        id: 9,
         title: 'Clube da Luta', 
         year: 1999, 
         img: 'clube-da-luta.jpg',
@@ -81,7 +72,7 @@ const movies = [
         src: 'https://raw.githubusercontent.com/jonatasem/movies-api/main/clube-da-luta.mp4'
     },
     {
-        id: 10,
+        id: 9,
         title: 'Forrest Gump: O Contador de Histórias', 
         year: 1994, 
         img: 'forrest-gump.jpg',
@@ -90,7 +81,7 @@ const movies = [
         src: 'https://raw.githubusercontent.com/jonatasem/movies-api/main/forrest-gump.mp4'
     },
     {
-        id: 11,
+        id: 10,
         title: 'O Senhor dos Anéis: A Sociedade do Anel', 
         year: 2001, 
         img: 'o-senhor-dos-anéis-a-sociedade-do-anel.jpg',
@@ -99,7 +90,7 @@ const movies = [
         src: 'https://raw.githubusercontent.com/jonatasem/movies-api/main/o-senhor-dos-anéis-a-sociedade-do-anel.mp4'
     },
     {
-        id: 12,
+        id: 11,
         title: 'Star Wars: Episódio V – O Império Contra-Ataca', 
         year: 1980, 
         img: 'star-wars-episodio-v-o-imperio-contra-ataca.jpg',
@@ -108,7 +99,7 @@ const movies = [
         src: 'https://raw.githubusercontent.com/jonatasem/movies-api/main/star-wars-episodio-v-o-imperio-contra-ataca.mp4'
     },
     {
-        id: 13,
+        id: 12,
         title: 'O Silêncio dos Inocentes', 
         year: 1991, 
         img: 'o-silencio-dos-inocentes.jpg',
@@ -117,7 +108,7 @@ const movies = [
         src: 'https://raw.githubusercontent.com/jonatasem/movies-api/main/o-silencio-dos-inocentes.mp4'
     },
     {
-        id: 14,
+        id: 13,
         title: 'Interestelar', 
         year: 2014, 
         img: 'interestelar.jpg',
@@ -126,7 +117,7 @@ const movies = [
         src: 'https://raw.githubusercontent.com/jonatasem/movies-api/main/interestelar.mp4'
     },
     {
-        id: 15,
+        id: 14,
         title: 'Matrix', 
         year: 1999, 
         img: 'matrix.jpg',
