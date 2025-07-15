@@ -1,6 +1,6 @@
 const movies = [
     {
-        id: 1,
+        id: "1",
         title: 'Um Sonho de Liberdade', 
         year: 1994,
         img: 'um-sonho-de-liberdade.jpg',
@@ -9,7 +9,7 @@ const movies = [
         src: 'https://raw.githubusercontent.com/jonatasem/movies-api/main/um-sonho-de-liberdade.mp4'
     },
     {
-        id: 2,
+        id: "2",
         title: 'O Poderoso Chefão',
         year: 1972, 
         img: 'o-poderoso-chefao.jpg',
@@ -18,7 +18,7 @@ const movies = [
         src: 'https://raw.githubusercontent.com/jonatasem/movies-api/main/o-poderoso-chefao.mp4'
     },
     {
-        id: 3,
+        id: "3",
         title: 'O Poderoso Chefão – Parte II', 
         year: 1974, 
         img: 'o-poderoso-chefao-parte-2.jpg',
@@ -27,7 +27,7 @@ const movies = [
         src: 'https://raw.githubusercontent.com/jonatasem/movies-api/main/o-poderoso-chefao-parte-2.mp4'
     },
     {
-        id: 4,
+        id: "4",
         title: 'Batman: O Cavaleiro das Trevas', 
         year: 2008, 
         img: 'batman-o-cavaleiro-das-trevas.jpg',
@@ -36,7 +36,7 @@ const movies = [
         src: 'https://raw.githubusercontent.com/jonatasem/movies-api/main/batman-o-cavaleiro-das-trevas.mp4'
     },
     {
-        id: 5,
+        id: "5",
         title: '12 Homens e uma Sentença', 
         year: 1957, 
         img: '12-homens-e-uma-sentenca.jpg',
@@ -45,7 +45,7 @@ const movies = [
         src: 'https://raw.githubusercontent.com/jonatasem/movies-api/main/12-homens-e-uma-sentenca.mp4'
     },
     {
-        id: 6,
+        id: "6",
         title: 'A Lista de Schindler', 
         year: 1993, 
         img: 'a-lista-de-schindler.jpg',
@@ -54,7 +54,7 @@ const movies = [
         src: 'https://raw.githubusercontent.com/jonatasem/movies-api/main/a-lista-de-schindler.mp4'
     },
     {
-        id: 7,
+        id: "7",
         title: 'O Senhor dos Anéis: O Retorno do Rei', 
         year: 2003, 
         img: 'o-senhor-dos-anéis-o-retorno-do-rei.jpg',
@@ -63,7 +63,7 @@ const movies = [
         src: 'https://raw.githubusercontent.com/jonatasem/movies-api/main/o-senhor-dos-anéis-o-retorno-do-rei.mp4'
     },
     {
-        id: 8,
+        id: "8",
         title: 'Clube da Luta', 
         year: 1999, 
         img: 'clube-da-luta.jpg',
@@ -72,7 +72,7 @@ const movies = [
         src: 'https://raw.githubusercontent.com/jonatasem/movies-api/main/clube-da-luta.mp4'
     },
     {
-        id: 9,
+        id: "9",
         title: 'Forrest Gump: O Contador de Histórias', 
         year: 1994, 
         img: 'forrest-gump.jpg',
@@ -81,7 +81,7 @@ const movies = [
         src: 'https://raw.githubusercontent.com/jonatasem/movies-api/main/forrest-gump.mp4'
     },
     {
-        id: 10,
+        id: "10",
         title: 'O Senhor dos Anéis: A Sociedade do Anel', 
         year: 2001, 
         img: 'o-senhor-dos-anéis-a-sociedade-do-anel.jpg',
@@ -90,7 +90,7 @@ const movies = [
         src: 'https://raw.githubusercontent.com/jonatasem/movies-api/main/o-senhor-dos-anéis-a-sociedade-do-anel.mp4'
     },
     {
-        id: 11,
+        id: "11",
         title: 'Star Wars: Episódio V – O Império Contra-Ataca', 
         year: 1980, 
         img: 'star-wars-episodio-v-o-imperio-contra-ataca.jpg',
@@ -99,7 +99,7 @@ const movies = [
         src: 'https://raw.githubusercontent.com/jonatasem/movies-api/main/star-wars-episodio-v-o-imperio-contra-ataca.mp4'
     },
     {
-        id: 12,
+        id: "12",
         title: 'O Silêncio dos Inocentes', 
         year: 1991, 
         img: 'o-silencio-dos-inocentes.jpg',
@@ -108,7 +108,7 @@ const movies = [
         src: 'https://raw.githubusercontent.com/jonatasem/movies-api/main/o-silencio-dos-inocentes.mp4'
     },
     {
-        id: 13,
+        id: "13",
         title: 'Interestelar', 
         year: 2014, 
         img: 'interestelar.jpg',
@@ -117,7 +117,7 @@ const movies = [
         src: 'https://raw.githubusercontent.com/jonatasem/movies-api/main/interestelar.mp4'
     },
     {
-        id: 14,
+        id: "14",
         title: 'Matrix', 
         year: 1999, 
         img: 'matrix.jpg',
